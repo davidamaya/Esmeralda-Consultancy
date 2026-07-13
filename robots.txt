@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidamaya.github.io/Esmeralda-Consultancy/sitemap.xml
